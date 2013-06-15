@@ -1,7 +1,3 @@
+
+
 Preprocess Program For Text Cluster
-
-
-The input data is Text file with utf-8 encode.
-And the output file is ARFF format file .
-
-You can make Cluster with the arff file based on WEKA.
