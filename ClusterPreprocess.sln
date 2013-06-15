@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ClusterPreprocess", "ClusterPreprocess\ClusterPreprocess.vcxproj", "{DB26EDDC-C3A1-451C-9DB1-30B6B8B0460F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB26EDDC-C3A1-451C-9DB1-30B6B8B0460F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB26EDDC-C3A1-451C-9DB1-30B6B8B0460F}.Debug|Win32.Build.0 = Debug|Win32
+		{DB26EDDC-C3A1-451C-9DB1-30B6B8B0460F}.Release|Win32.ActiveCfg = Release|Win32
+		{DB26EDDC-C3A1-451C-9DB1-30B6B8B0460F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
